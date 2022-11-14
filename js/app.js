@@ -1,4 +1,4 @@
-const URI_BACKEND = "http://127.0.0.1:8000";
+const URI_BACKEND = "https://testapp-bsale.herokuapp.com";
 
 const cardProduct = (product) => (`
     <div class="col-md-4 my-2" >
